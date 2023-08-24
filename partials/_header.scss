@@ -1,0 +1,26 @@
+
+header{
+    width: 100%;
+}
+
+.header-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+i{
+    color: $white-normal;
+}
+
+i:hover{
+    color: red;
+}
+
+.header-icons{
+     display: flex;
+     gap: 14px;
+}
+
+
+
